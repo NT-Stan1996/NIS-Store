@@ -4,4 +4,4 @@
 
 - Caso queira adicionar seu jogo ou app na loja, fale comigo no Kwai:
   - Nickname: █▓▒░ Stano Paraguaio ░▒▓█
-  - : @StanoBemLoko
+  - ID: @StanoBemLoko
